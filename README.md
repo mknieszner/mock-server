@@ -18,7 +18,7 @@ Ten projekt jest serwerem mockującym, który odpowiada na żądania HTTP na pod
     - `MockServerController.java` - Główna klasa odpowiedzialna za działanie serwera
 - `src/main/resources/hars` - Katalog, w którym umieszczamy pliki HAR
 - `pom.xml` - Plik konfiguracyjny Maven, zawierający zależności
-- `HELP.md` - Niniejszy plik z instrukcjami
+- `README.md` - Niniejszy plik z instrukcjami
 
 ## Instalacja
 
@@ -159,5 +159,3 @@ Przykładowe zapytania:
 Jeśli masz pytania lub problemy, skontaktuj się z autorem projektu.
 
 ---
-
-Ten plik `HELP.md` powinien ułatwić użytkownikom zrozumienie, jak działa serwer, jak dodawać pliki HAR i jak testować aplikację. Czy chcesz dodać jeszcze jakieś inne informacje do pliku?
